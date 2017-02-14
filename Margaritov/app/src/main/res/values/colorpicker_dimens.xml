@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="color_picker_color_view_drawable_boarder_width">1.0dip</dimen>
+    <dimen name="color_picker_preference_preview_width_height">35.0dip</dimen>
+</resources>

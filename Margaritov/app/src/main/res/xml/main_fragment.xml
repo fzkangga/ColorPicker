@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+	xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="Settings">
+	<SwitchPreference
+		android:title="Settings"/>
+	<net.margaritov.preference.colorpicker.ColorPickerPreference
+		android:title="Color Satu"
+		android:key="satu"/>
+	<net.margaritov.preference.colorpicker.ColorPickerPreference
+		alphaSeekBar="true"
+		android:title="Color Dua"
+		android:key="dua"/>
+</PreferenceScreen>
